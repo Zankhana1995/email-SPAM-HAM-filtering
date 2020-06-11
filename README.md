@@ -1,6 +1,6 @@
 # email-SPAM-HAM-filtering
- A Python-based spam detector using the Naıve Bayes approach with numpy, pyplot etc. packages.
- # AI_project_2 (Team of 3)
+ A Python-based spam detector using the Naıve Bayes approach with numpy, pyplot etc. packages. Please refer a2.pdf for project description.
+# AI_project_2 (Team of 3)
 COMP 6721 Applied Artificial Intelligence (Winter 2020)
 
 List of all submitted files:
